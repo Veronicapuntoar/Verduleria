@@ -1,0 +1,27 @@
+.container {
+    display: inline-block;
+    background-color: whitesmoke;
+border-radius: 4%;
+box-shadow: 2px 2px  black ;
+box-sizing: border-box;
+width: 20%;
+height: 45%;
+align-content: center;
+}
+
+
+.container-title {
+    font-weight: 700;
+    
+
+}
+.container-description {
+    color: darkgrey;
+   
+}
+body{
+
+    display: block;
+    text-align: center;
+    font-family: 'Mulish', sans-serif;
+    background-color:#a5d6a7;}
